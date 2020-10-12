@@ -7,7 +7,7 @@
 
     public class GrasshopperBootstrapInfo : GH_AssemblyInfo
     {
-        public override string Name => "GrasshopperBootstrap";
+        public override string Name => "GrasshopperBootstrap_test";
 
         public override Bitmap Icon => Resources.icons_icon_plugin;
 
